@@ -1,11 +1,7 @@
 import React from "react";
 import "./FollowUs.css";
 import Image from "next/image";
-<<<<<<< HEAD
-import Instagram1 from "../../../assets/InstagramPost.svg"
-=======
-import Instagram1 from "../../../assets/InstagramPost.svg";
->>>>>>> e3d14956f0d814e4262cf3b1fdfcc46c6a1c4031
+import Instagram1 from "../../../assets/InstagramPost"
 import Instagram2 from "../../../assets/InstagramPost2.svg";
 import Instagram3 from "../../../assets/InstagramPost3.svg";
 import Instagram4 from "../../../assets/InstagramPost4.svg";
