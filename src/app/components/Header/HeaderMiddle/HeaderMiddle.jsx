@@ -4,7 +4,7 @@ import "./HeaderMiddle.css";
 import Logo from "../../../../assets/Logo.svg";
 import Divider from "../../../../assets/devider.svg";
 import ShopingBag from "../../../../assets/Bag.svg";
-import Favurite from "../../../../assets/heart.svg";
+import Favurite from "../../../../assets/Heart.svg"
 
 const HeaderMiddle = () => {
   return (

@@ -1,7 +1,6 @@
 import React from "react";
 import "./FollowUS.css";
 import Image from "next/image";
-import Line from "../../../assets/LineFull.svg";
 import Instagram1 from "../../../assets/Instagram Post.svg";
 import Instagram2 from "../../../assets/Instagram Post 2.svg";
 import Instagram3 from "../../../assets/Instagram Post 3.svg";
