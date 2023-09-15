@@ -1,5 +1,5 @@
 import React from "react";
-import "./FollowUS.css";
+import "./FollowUs.css";
 import Image from "next/image";
 import Instagram1 from "../../../assets/Instagram Post.svg";
 import Instagram2 from "../../../assets/Instagram Post 2.svg";
