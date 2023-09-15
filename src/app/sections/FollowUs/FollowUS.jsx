@@ -11,13 +11,6 @@ import Instagram6 from "../../../assets/Instagram Post 6.svg";
 const TopCatagoryProduct = () => {
   return (
     <div>
-      {/* <div className="container">
-      <div className="row d-flex">
-          <div className="text-center">
-            <h4>Top Catagory</h4>
-            <Image src={Line} alt="line" />
-          </div> */}
-
       <div className="container py-5">
         <div className="text-center">
           <h4 className="py-4">Follow Us On Instagram</h4>
