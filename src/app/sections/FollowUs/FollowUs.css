@@ -1,0 +1,12 @@
+.equal-image-box {
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.equal-image-box img {
+  max-width: 100%;
+  height: auto;
+}

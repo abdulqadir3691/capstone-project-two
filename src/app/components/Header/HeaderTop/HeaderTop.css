@@ -1,0 +1,22 @@
+.bg {
+  background: var(--gray-scale-white, #fff);
+  box-shadow: 0px 1px 0px 0px #e5e5e5;
+}
+.text-style {
+  color: var(--gray-scale-gray-600, #666);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.text-style-dropdown {
+  color: var(--gray-scale-gray-600, #666);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  border: none;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  .header-res {
+    justify-content: start !important;
+  }
+}

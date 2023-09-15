@@ -1,0 +1,20 @@
+.bg {
+  background: var(--gray-scale-white, #fff);
+  box-shadow: 0px 1px 0px 0px #e5e5e5;
+}
+.text-style {
+  color: var(--gray-scale-gray-600, #666);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.btn-color{
+  background: var(#00B207);
+}
+
+@media (max-width: 768px) {
+  .header-middle {
+    justify-content: start !important;
+   
+  }
+}

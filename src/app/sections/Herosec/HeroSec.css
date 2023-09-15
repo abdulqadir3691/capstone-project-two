@@ -1,0 +1,71 @@
+.bg-color{
+    border-radius: 8px;
+    background: var(--gren-gray-scale-50, #EDF2EE);
+}
+.hero-btn{
+    border-radius: 53px;
+    background: var(--branding-success, #00B207);
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+.h6-style{
+    color: var(--branding-success, #00B207);
+
+font-size: 14px;
+
+font-weight: 500;
+line-height: 100%; 
+letter-spacing: 0.28px;
+
+}
+.h1-style{
+    color: var(--gray-scale-gray-900, #1A1A1A);
+
+
+font-size: 72px;
+
+font-weight: 600;
+line-height: 120%;
+}
+.off{
+    color: var(--branding-warning, #FF8A00);
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+}
+.para{
+color: var(--gray-scale-gray-500, #808080);
+font-size: 14px;
+font-weight: 400;
+}
+
+.card-back{
+   margin: 0px 50px;
+}
+.pic-set{
+    top: -290px;
+    right: -10px;
+}
+.middle-imgg{
+    right: 50px;
+}
+.card-bg{
+    background-color: #ffffff; 
+  bottom: 60px;
+}
+.font-size-5{
+    font-size: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+@media (max-width: 768px) {
+    .card-back{
+        margin: 10px 20px ;
+    }
+    .mob-res{
+        padding: 20px;
+    }
+  }

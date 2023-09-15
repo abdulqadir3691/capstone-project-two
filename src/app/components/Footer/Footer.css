@@ -1,0 +1,41 @@
+.search-btn{
+    margin-left: 200px;
+}
+.about-shopery{
+    color: var(--gray-scale-white, #FFF);
+font-size: 20px;
+font-weight: 500;
+}
+.bakcground{
+    background: var(--gray-scale-gray-900, #1A1A1A);
+}
+.newsletter-bg{
+    background: var(--gray-scale-gray-50, #F2F2F2);
+}
+.para{
+    color: var(--gray-scale-gray-500, #808080);
+
+/* Body Small/Body Small, 400 */
+
+font-size: 14px;
+
+font-weight: 400;
+
+}
+.number{
+    color: var(--gray-scale-white, #FFF);
+font-size: 14px;
+font-weight: 500;
+}
+.copyright{
+    color: var(--gray-scale-gray-500, #808080);
+font-size: 14px;
+font-weight: 400;
+
+}
+
+@media (max-width: 768px) {
+    .search-btn {
+      margin-left: 276px;
+    }
+  }
