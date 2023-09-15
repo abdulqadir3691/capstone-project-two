@@ -73,7 +73,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={FreshFruit}
                 alt=""
                 layout="respomsive"
@@ -88,7 +88,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={RiverFish}
                 alt=""
                 layout="respomsive"
@@ -102,7 +102,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={Meat}
                 alt=""
                 layout="respomsive"
@@ -116,7 +116,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={Drinks}
                 alt=""
                 layout="respomsive"
@@ -131,7 +131,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image "
+                className="p-2 image slide-image-res"
                 src={Snacks}
                 alt=""
                 layout="respomsive"
@@ -146,7 +146,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={Drinks}
                 alt=""
                 layout="respomsive"
@@ -160,7 +160,7 @@ export default class Responsive extends Component {
           <div>
             <div class="card card-width border-shadow-rest margin-lefft">
               <Image
-                className="p-2 image"
+                className="p-2 image slide-image-res"
                 src={Drinks}
                 alt=""
                 layout="respomsive"
